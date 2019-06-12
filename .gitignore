@@ -1,0 +1,8 @@
+backend/node_modules/
+
+backend/yarn.lock
+backend/yarn-error.log
+
+backend/.env
+
+backend/uploads/
